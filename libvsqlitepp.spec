@@ -10,8 +10,6 @@ URL:		https://github.com/vinzenz/vsqlite--
 BuildRequires:	boost-devel >= 1.33
 BuildRequires:	doxygen
 BuildRequires:	graphviz
-BuildRequires:	libtool
-BuildRequires:	premake
 BuildRequires:	sqlite3-devel
 BuildRequires:	tar >= 1:1.22
 BuildRequires:	xz
