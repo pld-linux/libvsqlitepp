@@ -6,7 +6,7 @@ Summary:	Well designed C++ sqlite 3.x wrapper library
 Summary(pl.UTF-8):	Dobrze zaprojektowana biblioteka obudowująca C++ dla sqlite 3.x
 Name:		libvsqlitepp
 Version:	0.3.13
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries
 Source0:	http://evilissimo.fedorapeople.org/releases/vsqlite--/%{version}/vsqlite++-%{version}.tar.xz
