@@ -62,9 +62,7 @@ Summary:	Development documentation for VSQLite++ library
 Summary(pl.UTF-8):	Dokumentacja programisty do biblioteki VSQLite++
 Group:		Documentation
 # noarch subpackages only when building with rpm5
-%if "%{_rpmversion}" >= "5"
 BuildArch:	noarch
-%endif
 
 %description doc
 This package contains development documentation files for VSQLite++.
